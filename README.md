@@ -1,0 +1,2 @@
+# MCModJsonExporter
+一个用于MC百科内Json导出的工具
